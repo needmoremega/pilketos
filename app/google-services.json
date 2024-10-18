@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89510566905",
+    "project_id": "pilketosgg",
+    "storage_bucket": "pilketosgg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89510566905:android:d345825572d131e33ffb28",
+        "android_client_info": {
+          "package_name": "com.example.pilketos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zlBT3kf6BBfZBPQC2N6SOwRaFiChrcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89510566905:android:38f7ab8d365a66a63ffb28",
+        "android_client_info": {
+          "package_name": "com.gio.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zlBT3kf6BBfZBPQC2N6SOwRaFiChrcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
